@@ -12,3 +12,4 @@ numpy
 seaborn
 Pillow
 networkx
+nbformat>=4.2.0
