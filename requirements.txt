@@ -1,0 +1,14 @@
+scikit-learn
+plotly
+nltk
+spacy
+gensim
+matplotlib
+wordcloud
+chart-studio
+textblob
+pandas
+numpy
+seaborn
+Pillow
+networkx
